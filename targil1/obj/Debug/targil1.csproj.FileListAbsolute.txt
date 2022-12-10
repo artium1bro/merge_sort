@@ -1,0 +1,8 @@
+C:\Users\artiu\source\repos\targil1\targil1\bin\Debug\targil1.exe.config
+C:\Users\artiu\source\repos\targil1\targil1\bin\Debug\targil1.exe
+C:\Users\artiu\source\repos\targil1\targil1\bin\Debug\targil1.pdb
+C:\Users\artiu\source\repos\targil1\targil1\obj\Debug\targil1.csproj.AssemblyReference.cache
+C:\Users\artiu\source\repos\targil1\targil1\obj\Debug\targil1.csproj.SuggestedBindingRedirects.cache
+C:\Users\artiu\source\repos\targil1\targil1\obj\Debug\targil1.csproj.CoreCompileInputs.cache
+C:\Users\artiu\source\repos\targil1\targil1\obj\Debug\targil1.exe
+C:\Users\artiu\source\repos\targil1\targil1\obj\Debug\targil1.pdb
